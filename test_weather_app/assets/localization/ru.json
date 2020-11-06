@@ -1,0 +1,22 @@
+{
+  "daily_tab" : "Дневной",
+  "hourly_tab" : "Часовой",
+  "day_name" : {
+    "Monday" : "Пн",
+    "Tuesday" : "Вт",
+    "Wednesday" : "Ср",
+    "Thursday" : "Чт",
+    "Friday" : "Пт",
+    "Saturday" : "Сб",
+    "Sunday" : "Вс"
+  },
+  "feels_like" : "Ощущается как",
+  "wind" : "Ветер",
+  "cloudiness" : "Облачность",
+  "humidity" : "Влажность",
+  "pressure" : "Давление",
+  "rain_fall" : "Осадки",
+  "more" : "больше информации",
+  "wind_unit" : "м/с",
+  "rain_unit" : "мм"
+}

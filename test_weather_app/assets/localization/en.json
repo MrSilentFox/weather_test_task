@@ -1,0 +1,22 @@
+{
+  "daily_tab" : "Daily",
+  "hourly_tab" : "Hourly",
+  "day_name" : {
+    "Monday" : "Monday",
+    "Tuesday" : "Tuesday",
+    "Wednesday" : "Wednesday",
+    "Thursday" : "Thursday",
+    "Friday" : "Friday",
+    "Saturday" : "Saturday",
+    "Sunday" : "Sunday"
+  },
+  "feels_like" : "Feels like",
+  "wind" : "Wind",
+  "cloudiness" : "Cloudiness",
+  "humidity" : "Humidity",
+  "pressure" : "Pressure",
+  "rain_fall" : "Rain Fall",
+  "more" : "more info",
+  "wind_unit" : "m/s",
+  "rain_unit" : "mm"
+}
